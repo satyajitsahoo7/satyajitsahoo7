@@ -14,16 +14,16 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 💡 About Me
 
-- 🌐 Web Developer passionate about building fast, scalable, and interactive websites  
-- 💻 Skilled in both frontend and backend development  
-- 🎯 Focused on clean UI, performance, and responsive design  
-- 📬 Available for internships and freelance work  
+🎯 I'm a passionate **Web Developer** who loves building fast, user-friendly websites.  
+🛠️ Skilled in both **frontend and backend development** using modern tools.  
+🌱 Always learning, improving, and exploring new technologies.  
+🚀 Currently looking for **internship or freelance opportunities**.  
 
 ---
 
-### 🛠️ Tech Stack
+### ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,mysql,mongodb,git,github,vscode,wordpress" />
@@ -31,39 +31,25 @@
 
 ---
 
-### 🚀 Projects
+### 📫 Contact Me
 
-#### 🏦 Bank Management System  
-<img src="https://img.icons8.com/fluency/48/bank.png" width="28"/>  
-A banking interface with features like account creation, deposit, and withdrawal.  
-🛠️ **Tech**: HTML, CSS, JavaScript, MySQL
-
-#### 🎓 University Attendance System  
-<img src="https://img.icons8.com/color/48/classroom.png" width="28"/>  
-Web-based attendance system with backend database integration for record keeping.  
-🛠️ **Tech**: HTML, CSS, JavaScript, MySQL
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyajitsahoo7&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajitsahoo7&layout=compact&theme=radical" width="48%" />
+<p align="left">
+  <img src="https://img.icons8.com/ios-filled/25/000000/email-open.png"/> <b>Email:</b> satyajitsaho7@gmail.com  
+  <br>
+  <img src="https://img.icons8.com/ios-filled/25/000000/linkedin.png"/> <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/satyajit-sahoo-a746bb289/">linkedin.com/in/satyajit-sahoo-a746bb289</a>  
+  <br>
+  <img src="https://img.icons8.com/ios-filled/25/000000/domain.png"/> <b>Portfolio:</b> <a href="https://satyajitsahoo7.github.io/My-Portfolio/">satyajitsahoo7.github.io/My-Portfolio</a>  
+  <br>
+  <img src="https://img.icons8.com/ios-filled/25/000000/resume.png"/> <b>Resume:</b> <a href="https://drive.google.com/file/d/1jp852P8IfPliITYl9V8Tixfw8bgJqwNh/view">View on Google Drive</a>  
+  <br>
+  <img src="https://img.icons8.com/ios-filled/25/000000/edit-property.png"/> <b>Hire Me:</b> <a href="https://docs.google.com/forms/d/e/1FAIpQLScKWHs4xFavoaqHa67NijmON_PykUvuIq-o7A9GS6jECeouJw/viewform">Submit Form</a>  
 </p>
 
 ---
 
-### 📫 Contact Me
+### 🙌 Let’s Collaborate!
 
-- 📧 **Email**: satyajitsaho7@gmail.com  
-- 🌐 **Portfolio**: [satyajitsahoo7.github.io/My-Portfolio](https://satyajitsahoo7.github.io/My-Portfolio/)  
-- 💼 **LinkedIn**: [linkedin.com/in/satyajit-sahoo-a746bb289](https://www.linkedin.com/in/satyajit-sahoo-a746bb289/)  
-- 📄 **Resume**: [View Resume](https://drive.google.com/file/d/1jp852P8IfPliITYl9V8Tixfw8bgJqwNh/view)  
-- ✅ **Hire Me**: [Submit Form](https://docs.google.com/forms/d/e/1FAIpQLScKWHs4xFavoaqHa67NijmON_PykUvuIq-o7A9GS6jECeouJw/viewform)
+> 💬 Feel free to reach out if you want to work on exciting web projects together. I’m always open to learning and contributing!
 
 ---
 
-### 💼 Hire Me
-
-> I’m open to freelance work, internships, and collaborations on exciting web projects. Let’s connect and build something amazing!
